@@ -10,18 +10,6 @@ Building scalable backend systems with clarity, performance, and intent.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ianuragmsingh">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;
-<a href="https://x.com/ianuragmsingh">
-  <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/ianuragmsingh">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
 </div>
 
 ---
